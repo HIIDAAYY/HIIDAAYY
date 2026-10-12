@@ -26,9 +26,9 @@ Platform customer support multi-tenant: satu deployment melayani banyak bisnis, 
 
 ### 🛠️ Keahlian
 
-**Frontend:** React · Next.js · TypeScript · Astro · Tailwind CSS · shadcn/ui
-**Backend:** Node.js · Express · REST · GraphQL · Prisma · PostgreSQL · DynamoDB · Redis
-**AI:** Claude API (Tool Use) · RAG/Pinecone · Amazon Bedrock
-**Testing & DevOps:** Vitest · Jest · Playwright · GitHub Actions · Vercel · AWS Lambda · Docker
+- **Frontend:** React · Next.js · TypeScript · Astro · Tailwind CSS · shadcn/ui
+- **Backend:** Node.js · Express · REST · GraphQL · Prisma · PostgreSQL · DynamoDB · Redis
+- **AI:** Claude API (Tool Use) · RAG/Pinecone · Amazon Bedrock
+- **Testing & DevOps:** Vitest · Jest · Playwright · GitHub Actions · Vercel · AWS Lambda · Docker
 
 📫 aditmuhammad10.ma@gmail.com · [WhatsApp](https://wa.me/6285161220535) · [Portofolio](https://portfolio-adit-seven.vercel.app)
